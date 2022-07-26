@@ -157,17 +157,12 @@ BUILDER_PUBLIC_KEY=012345abcdef0123456789abcdef0123
 The hard part is over, all you have to do is start up the project now.
 
 ```bash
-npm install
-npm run dev
-```
-or
-```bash
 yarn && yarn dev
 ```
 
-This will start a server at `http://localhost:3000`.
+This will start a server at `http://localhost:3004`.
 
-Go to your [new space settings](https://builder.io/account/space) and change the site url to your localhost `http://localhost:3000` for site editing.
+Go to your [new space settings](https://builder.io/account/space) and change the site url to your localhost `http://localhost:3004` for site editing.
 
 
 ### 7. Start building
